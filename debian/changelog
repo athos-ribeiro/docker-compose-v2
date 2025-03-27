@@ -1,3 +1,13 @@
+docker-compose-v2 (2.33.0+ds1-0ubuntu1~20.04.1) focal; urgency=medium
+
+  * Backport from plucky to focal (LP: #2085187)
+  * d/control: build with golang 1.22 for consistency across the supported
+    release
+  * d/rules: add golang 1.22 to PATH
+  * d/p/toolchain.patch: set go minimum version to 1.22
+
+ -- Athos Ribeiro <athos.ribeiro@canonical.com>  Thu, 27 Mar 2025 09:07:42 -0300
+
 docker-compose-v2 (2.33.0+ds1-0ubuntu1) plucky; urgency=medium
 
   * New upstream version 2.33.0+ds1
