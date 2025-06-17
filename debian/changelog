@@ -1,3 +1,11 @@
+docker-compose-v2 (2.37.1+ds1-0ubuntu1) questing; urgency=medium
+
+  * New upstream version 2.37.1+ds1
+  * d/docker-compose-v2.docs: update NOTICE file list
+  * d/copyright: update copyright data
+
+ -- Athos Ribeiro <athos.ribeiro@canonical.com>  Mon, 16 Jun 2025 15:11:00 -0300
+
 docker-compose-v2 (2.33.0+ds1-0ubuntu1) plucky; urgency=medium
 
   * New upstream version 2.33.0+ds1
